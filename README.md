@@ -10,7 +10,8 @@ compatible headphones with mic. Many more features can be customized and added t
 Rpi3 to make it more efficient and much more user-friendly. This system had to be made as 
 light-weight as possible because it is to be used on a daily basis. 
 
-. Aims & Objectives: The project aims and objectives that will be achieved after 
+. Aims & Objectives:
+The project aims and objectives that will be achieved after 
 completion of this project are as follows- 
 
 . Detection of human faces 
@@ -21,6 +22,25 @@ predictions
 . Detection and Recognition of a few objects 
 
 . Hot-word activated Virtual assistant(AI) 
+
+REQUIREMENTS
+1-HARDWARE REQUIREMENTS
+	1 x Raspberry Pi  3 Model B 1.2 GHz 64-bit-quad-core ARM Cortex A53 CPU OR HIGHER
+	1 x USB sound Card
+	1 x 3.5mm jack Y cable splitter
+	1 x Earphones
+	1 x Camera Module
+	1 x SDHC Card
+	1 x Power Bank 
+
+2-SOFTWARE REQUIREMENTS
+	Raspbian software packages
+	CMake-family of tools designed to build, test and package software
+	OpenCv Library-for face recognition
+	OpenCv 2.3-dev library and python library
+
+3-OPERATING SYSTEM
+	Raspbian Jessie
 
 There are 2 modules in the Project 
 
